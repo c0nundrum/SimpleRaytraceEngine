@@ -1,5 +1,15 @@
-// FPShooty.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+//Copyright(C) 2018  Javidx9
+//This program comes with ABSOLUTELY NO WARRANTY.
+//This is free software, and you are welcome to redistribute it
+//under certain conditions; See license for details.
+//Original works located at :
+//https://www.github.com/onelonecoder
+//https://www.onelonecoder.com
+//https://www.youtube.com/javidx9
+//GNU GPLv3
+//https ://github.com/OneLoneCoder/videos/blob/master/LICENSE
+//*********************************************************************//
+//Based On that awesome tutorial, with a few hacks
 
 #include "pch.h"
 #include <iostream>
